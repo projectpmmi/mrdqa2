@@ -1,0 +1,7 @@
+#Thu Jul 14 15:58:46 GMT 2022
+base.0=/Users/ddiallo/Documents/Dev-Projets/Flutter/Projects/mrdqa/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.1=classes2.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=/Users/ddiallo/Documents/Dev-Projets/Flutter/Projects/mrdqa/build/app/intermediates/dex/debug/mergeDexDebug/out/classes2.dex

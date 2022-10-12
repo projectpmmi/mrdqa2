@@ -1,0 +1,1 @@
+## Enter the indicator type, and indicators for up to five indicators.  Select "Other_specify" to enter user-defined types and indicators.

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "229800573618",
+    "project_id": "mdqa-f952d",
+    "storage_bucket": "mdqa-f952d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229800573618:android:4d34908f41900b218c67ab",
+        "android_client_info": {
+          "package_name": "org.measure.mrdqa_tool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "229800573618-jrk5l00ikodo6siq5rulqmfi73d0gkhq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFS59yxmMsyIUxtSxvEW9-iCCROJ1Tx9s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "229800573618-jrk5l00ikodo6siq5rulqmfi73d0gkhq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

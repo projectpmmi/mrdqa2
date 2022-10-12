@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/ddiallo/Documents/Dev-Projets/Flutter/Projects/mrdqa/build/permission_handler/intermediates/res/merged/release/drawable/notification_icon_background.xml",
+        "source": "/Users/ddiallo/.gradle/caches/transforms-3/bc7abb374a560bcb4d5ba88bf0236831/transformed/core-1.6.0/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/ddiallo/Documents/Dev-Projets/Flutter/Projects/mrdqa/build/permission_handler/intermediates/res/merged/release/drawable/notification_bg_low.xml",
+        "source": "/Users/ddiallo/.gradle/caches/transforms-3/bc7abb374a560bcb4d5ba88bf0236831/transformed/core-1.6.0/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/ddiallo/Documents/Dev-Projets/Flutter/Projects/mrdqa/build/permission_handler/intermediates/res/merged/release/drawable/notification_tile_bg.xml",
+        "source": "/Users/ddiallo/.gradle/caches/transforms-3/bc7abb374a560bcb4d5ba88bf0236831/transformed/core-1.6.0/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/ddiallo/Documents/Dev-Projets/Flutter/Projects/mrdqa/build/permission_handler/intermediates/res/merged/release/drawable/notification_bg.xml",
+        "source": "/Users/ddiallo/.gradle/caches/transforms-3/bc7abb374a560bcb4d5ba88bf0236831/transformed/core-1.6.0/res/drawable/notification_bg.xml"
+    }
+]

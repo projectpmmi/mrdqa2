@@ -1,0 +1,244 @@
+io/flutter/plugins/pathprovider/R.java
+ io.flutter.plugins.pathprovider.R
+ io.flutter.plugins.pathprovider.R$attr
+ io.flutter.plugins.pathprovider.R$color
+ io.flutter.plugins.pathprovider.R$dimen
+ io.flutter.plugins.pathprovider.R$drawable
+ io.flutter.plugins.pathprovider.R$id
+ io.flutter.plugins.pathprovider.R$integer
+ io.flutter.plugins.pathprovider.R$layout
+ io.flutter.plugins.pathprovider.R$string
+ io.flutter.plugins.pathprovider.R$style
+ io.flutter.plugins.pathprovider.R$styleable
+androidx/vectordrawable/R.java
+ androidx.vectordrawable.R
+ androidx.vectordrawable.R$attr
+ androidx.vectordrawable.R$color
+ androidx.vectordrawable.R$dimen
+ androidx.vectordrawable.R$drawable
+ androidx.vectordrawable.R$id
+ androidx.vectordrawable.R$integer
+ androidx.vectordrawable.R$layout
+ androidx.vectordrawable.R$string
+ androidx.vectordrawable.R$style
+ androidx.vectordrawable.R$styleable
+androidx/cursoradapter/R.java
+ androidx.cursoradapter.R
+androidx/lifecycle/livedata/core/R.java
+ androidx.lifecycle.livedata.core.R
+androidx/lifecycle/livedata/R.java
+ androidx.lifecycle.livedata.R
+androidx/appcompat/resources/R.java
+ androidx.appcompat.resources.R
+ androidx.appcompat.resources.R$attr
+ androidx.appcompat.resources.R$color
+ androidx.appcompat.resources.R$dimen
+ androidx.appcompat.resources.R$drawable
+ androidx.appcompat.resources.R$id
+ androidx.appcompat.resources.R$integer
+ androidx.appcompat.resources.R$layout
+ androidx.appcompat.resources.R$string
+ androidx.appcompat.resources.R$style
+ androidx.appcompat.resources.R$styleable
+androidx/appcompat/R.java
+ androidx.appcompat.R
+ androidx.appcompat.R$anim
+ androidx.appcompat.R$attr
+ androidx.appcompat.R$bool
+ androidx.appcompat.R$color
+ androidx.appcompat.R$dimen
+ androidx.appcompat.R$drawable
+ androidx.appcompat.R$id
+ androidx.appcompat.R$integer
+ androidx.appcompat.R$interpolator
+ androidx.appcompat.R$layout
+ androidx.appcompat.R$string
+ androidx.appcompat.R$style
+ androidx.appcompat.R$styleable
+com/baseflow/permissionhandler/R.java
+ com.baseflow.permissionhandler.R
+ com.baseflow.permissionhandler.R$attr
+ com.baseflow.permissionhandler.R$color
+ com.baseflow.permissionhandler.R$dimen
+ com.baseflow.permissionhandler.R$drawable
+ com.baseflow.permissionhandler.R$id
+ com.baseflow.permissionhandler.R$integer
+ com.baseflow.permissionhandler.R$layout
+ com.baseflow.permissionhandler.R$string
+ com.baseflow.permissionhandler.R$style
+ com.baseflow.permissionhandler.R$styleable
+androidx/lifecycle/R.java
+ androidx.lifecycle.R
+androidx/arch/core/R.java
+ androidx.arch.core.R
+androidx/fragment/R.java
+ androidx.fragment.R
+ androidx.fragment.R$attr
+ androidx.fragment.R$color
+ androidx.fragment.R$dimen
+ androidx.fragment.R$drawable
+ androidx.fragment.R$id
+ androidx.fragment.R$integer
+ androidx.fragment.R$layout
+ androidx.fragment.R$string
+ androidx.fragment.R$style
+ androidx.fragment.R$styleable
+androidx/savedstate/R.java
+ androidx.savedstate.R
+androidx/customview/R.java
+ androidx.customview.R
+ androidx.customview.R$attr
+ androidx.customview.R$color
+ androidx.customview.R$dimen
+ androidx.customview.R$drawable
+ androidx.customview.R$id
+ androidx.customview.R$integer
+ androidx.customview.R$layout
+ androidx.customview.R$string
+ androidx.customview.R$style
+ androidx.customview.R$styleable
+org/measure/mrdqa_tool/BuildConfig.java
+ org.measure.mrdqa_tool.BuildConfig
+io/github/ponnamkarthik/toast/fluttertoast/R.java
+ io.github.ponnamkarthik.toast.fluttertoast.R
+ io.github.ponnamkarthik.toast.fluttertoast.R$attr
+ io.github.ponnamkarthik.toast.fluttertoast.R$color
+ io.github.ponnamkarthik.toast.fluttertoast.R$dimen
+ io.github.ponnamkarthik.toast.fluttertoast.R$drawable
+ io.github.ponnamkarthik.toast.fluttertoast.R$id
+ io.github.ponnamkarthik.toast.fluttertoast.R$integer
+ io.github.ponnamkarthik.toast.fluttertoast.R$layout
+ io.github.ponnamkarthik.toast.fluttertoast.R$string
+ io.github.ponnamkarthik.toast.fluttertoast.R$style
+ io.github.ponnamkarthik.toast.fluttertoast.R$styleable
+androidx/loader/R.java
+ androidx.loader.R
+ androidx.loader.R$attr
+ androidx.loader.R$color
+ androidx.loader.R$dimen
+ androidx.loader.R$drawable
+ androidx.loader.R$id
+ androidx.loader.R$integer
+ androidx.loader.R$layout
+ androidx.loader.R$string
+ androidx.loader.R$style
+ androidx.loader.R$styleable
+com/sidlatau/flutteremailsender/R.java
+ com.sidlatau.flutteremailsender.R
+ com.sidlatau.flutteremailsender.R$anim
+ com.sidlatau.flutteremailsender.R$attr
+ com.sidlatau.flutteremailsender.R$bool
+ com.sidlatau.flutteremailsender.R$color
+ com.sidlatau.flutteremailsender.R$dimen
+ com.sidlatau.flutteremailsender.R$drawable
+ com.sidlatau.flutteremailsender.R$id
+ com.sidlatau.flutteremailsender.R$integer
+ com.sidlatau.flutteremailsender.R$interpolator
+ com.sidlatau.flutteremailsender.R$layout
+ com.sidlatau.flutteremailsender.R$string
+ com.sidlatau.flutteremailsender.R$style
+ com.sidlatau.flutteremailsender.R$styleable
+ com.sidlatau.flutteremailsender.R$xml
+androidx/annotation/experimental/R.java
+ androidx.annotation.experimental.R
+androidx/interpolator/R.java
+ androidx.interpolator.R
+androidx/core/R.java
+ androidx.core.R
+ androidx.core.R$attr
+ androidx.core.R$color
+ androidx.core.R$dimen
+ androidx.core.R$drawable
+ androidx.core.R$id
+ androidx.core.R$integer
+ androidx.core.R$layout
+ androidx.core.R$string
+ androidx.core.R$style
+ androidx.core.R$styleable
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+androidx/tracing/R.java
+ androidx.tracing.R
+org/measure/mrdqa_tool/R.java
+ org.measure.mrdqa_tool.R
+ org.measure.mrdqa_tool.R$anim
+ org.measure.mrdqa_tool.R$attr
+ org.measure.mrdqa_tool.R$bool
+ org.measure.mrdqa_tool.R$color
+ org.measure.mrdqa_tool.R$dimen
+ org.measure.mrdqa_tool.R$drawable
+ org.measure.mrdqa_tool.R$id
+ org.measure.mrdqa_tool.R$integer
+ org.measure.mrdqa_tool.R$interpolator
+ org.measure.mrdqa_tool.R$layout
+ org.measure.mrdqa_tool.R$mipmap
+ org.measure.mrdqa_tool.R$string
+ org.measure.mrdqa_tool.R$style
+ org.measure.mrdqa_tool.R$styleable
+ org.measure.mrdqa_tool.R$xml
+androidx/activity/R.java
+ androidx.activity.R
+ androidx.activity.R$attr
+ androidx.activity.R$color
+ androidx.activity.R$dimen
+ androidx.activity.R$drawable
+ androidx.activity.R$id
+ androidx.activity.R$integer
+ androidx.activity.R$layout
+ androidx.activity.R$string
+ androidx.activity.R$style
+ androidx.activity.R$styleable
+androidx/drawerlayout/R.java
+ androidx.drawerlayout.R
+ androidx.drawerlayout.R$attr
+ androidx.drawerlayout.R$color
+ androidx.drawerlayout.R$dimen
+ androidx.drawerlayout.R$drawable
+ androidx.drawerlayout.R$id
+ androidx.drawerlayout.R$integer
+ androidx.drawerlayout.R$layout
+ androidx.drawerlayout.R$string
+ androidx.drawerlayout.R$style
+ androidx.drawerlayout.R$styleable
+androidx/versionedparcelable/R.java
+ androidx.versionedparcelable.R
+androidx/viewpager/R.java
+ androidx.viewpager.R
+ androidx.viewpager.R$attr
+ androidx.viewpager.R$color
+ androidx.viewpager.R$dimen
+ androidx.viewpager.R$drawable
+ androidx.viewpager.R$id
+ androidx.viewpager.R$integer
+ androidx.viewpager.R$layout
+ androidx.viewpager.R$string
+ androidx.viewpager.R$style
+ androidx.viewpager.R$styleable
+androidx/multidex/R.java
+ androidx.multidex.R
+androidx/lifecycle/viewmodel/R.java
+ androidx.lifecycle.viewmodel.R
+com/tekartik/sqflite/R.java
+ com.tekartik.sqflite.R
+ com.tekartik.sqflite.R$attr
+ com.tekartik.sqflite.R$color
+ com.tekartik.sqflite.R$dimen
+ com.tekartik.sqflite.R$drawable
+ com.tekartik.sqflite.R$id
+ com.tekartik.sqflite.R$integer
+ com.tekartik.sqflite.R$layout
+ com.tekartik.sqflite.R$string
+ com.tekartik.sqflite.R$style
+ com.tekartik.sqflite.R$styleable
+androidx/vectordrawable/animated/R.java
+ androidx.vectordrawable.animated.R
+ androidx.vectordrawable.animated.R$attr
+ androidx.vectordrawable.animated.R$color
+ androidx.vectordrawable.animated.R$dimen
+ androidx.vectordrawable.animated.R$drawable
+ androidx.vectordrawable.animated.R$id
+ androidx.vectordrawable.animated.R$integer
+ androidx.vectordrawable.animated.R$layout
+ androidx.vectordrawable.animated.R$string
+ androidx.vectordrawable.animated.R$style
+ androidx.vectordrawable.animated.R$styleable

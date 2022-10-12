@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/ddiallo/Documents/Dev-Projets/Flutter/Projects/mrdqa/build/path_provider/intermediates/res/merged/release/layout/custom_dialog.xml",
+        "source": "/Users/ddiallo/.gradle/caches/transforms-3/bc7abb374a560bcb4d5ba88bf0236831/transformed/core-1.6.0/res/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "/Users/ddiallo/Documents/Dev-Projets/Flutter/Projects/mrdqa/build/path_provider/intermediates/res/merged/release/layout/notification_template_part_time.xml",
+        "source": "/Users/ddiallo/.gradle/caches/transforms-3/bc7abb374a560bcb4d5ba88bf0236831/transformed/core-1.6.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/ddiallo/Documents/Dev-Projets/Flutter/Projects/mrdqa/build/path_provider/intermediates/res/merged/release/layout/notification_template_icon_group.xml",
+        "source": "/Users/ddiallo/.gradle/caches/transforms-3/bc7abb374a560bcb4d5ba88bf0236831/transformed/core-1.6.0/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/ddiallo/Documents/Dev-Projets/Flutter/Projects/mrdqa/build/path_provider/intermediates/res/merged/release/layout/notification_action.xml",
+        "source": "/Users/ddiallo/.gradle/caches/transforms-3/bc7abb374a560bcb4d5ba88bf0236831/transformed/core-1.6.0/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/ddiallo/Documents/Dev-Projets/Flutter/Projects/mrdqa/build/path_provider/intermediates/res/merged/release/layout/notification_action_tombstone.xml",
+        "source": "/Users/ddiallo/.gradle/caches/transforms-3/bc7abb374a560bcb4d5ba88bf0236831/transformed/core-1.6.0/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/ddiallo/Documents/Dev-Projets/Flutter/Projects/mrdqa/build/path_provider/intermediates/res/merged/release/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/ddiallo/.gradle/caches/transforms-3/bc7abb374a560bcb4d5ba88bf0236831/transformed/core-1.6.0/res/layout/notification_template_part_chronometer.xml"
+    }
+]

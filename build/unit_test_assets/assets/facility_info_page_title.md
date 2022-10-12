@@ -1,0 +1,2 @@
+## "Enter details for health facilities selected for review.  Select the number of facilities using the drop-down combo box below.
+<div align="center">(Click on the facility number to jump to the health facility page)"</div>
